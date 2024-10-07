@@ -1,0 +1,23 @@
+﻿@page "/"
+@using AttackOfTheLamas.Shared
+@using Markdig
+
+@inject IFileWatcherService FileWatcherService
+@inject IMessageHistory MessageHistory
+@inject IRealTimeMessageStreamer MessageStreamer
+
+@rendermode InteractiveServer
+
+<PageTitle>Home</PageTitle>
+
+<h1>Welcome to your new app.</h1>
+
+
+<p>Response Text (Markdown Rendered):</p>
+
+<div>
+    @((MarkupString)ConvertMarkdownToHtml(ResponseText))
+</div>
+
+
+

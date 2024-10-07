@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttackOfTheLamas", "AttackOfTheLamas\AttackOfTheLamas.csproj", "{45ED6739-FF5A-49BF-940A-C6ED36444449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttackOfTheLamasWeb", "AttackOfTheLamasWeb\AttackOfTheLamasWeb.csproj", "{4D097274-7782-4E95-8D91-5EFCD6E59384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttackOfTheLamas.Shared", "AttackOfTheLamas.Shared\AttackOfTheLamas.Shared.csproj", "{30EAB343-E9BF-4837-ABCE-02D8C33581AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45ED6739-FF5A-49BF-940A-C6ED36444449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45ED6739-FF5A-49BF-940A-C6ED36444449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45ED6739-FF5A-49BF-940A-C6ED36444449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45ED6739-FF5A-49BF-940A-C6ED36444449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D097274-7782-4E95-8D91-5EFCD6E59384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D097274-7782-4E95-8D91-5EFCD6E59384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D097274-7782-4E95-8D91-5EFCD6E59384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D097274-7782-4E95-8D91-5EFCD6E59384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30EAB343-E9BF-4837-ABCE-02D8C33581AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30EAB343-E9BF-4837-ABCE-02D8C33581AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30EAB343-E9BF-4837-ABCE-02D8C33581AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30EAB343-E9BF-4837-ABCE-02D8C33581AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
